@@ -8,7 +8,8 @@ This Repo contains hands on networking work from my CCNA studies and home lab. C
 
 &#x20;home-lab contains documentation of my physical home lab Ex: OPNsense router, Cisco switching, segmented VLANs, and much more.
 
-&#x20;packet-tracer-labs contains documentation of various packet tracer labs I have completed through out my studies. Each lab demonstrates my understanding and ability so configure and troubleshoot a certain topic.
+&#x20;packet-tracer-labs contains documentation of various packet tracer labs I have completed through out my studies. Each lab demonstrates my understanding and ability to configure and troubleshoot a certain topic. 
+packet-tracer-labs file still needs to be uploaded to repo.
 
 
 
