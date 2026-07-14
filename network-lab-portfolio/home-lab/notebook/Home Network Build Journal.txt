@@ -1,0 +1,3 @@
+Home Network Build Journal 
+7/14/26
+	Starting my home network build today super excited. The M720Q ended up having the wrong PCIE slot for my NIC. Luckily I was able to order an adapter off amazon. Today ill be setting up my WAN edge (BGW320 Passthrough + OPNsense base install). Then I will setup router on a stick and VLAN interfaces on OPNsense. Will have a short period of down time when I have to restart the router after enabling Passthrough. I will also be setting up DHCP scopes on OPNsense. Going to disable IPv6 until the network is done then I will implement IPv6 as my next project. Having IPv6 disabled is better then having it half configured
